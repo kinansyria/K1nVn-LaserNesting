@@ -60,8 +60,8 @@
 
 ## الاختبارات
 ```
-node tests/nesting.test.js   # نمط المستطيلات
-node tests/shape.test.js     # نمط تداخل الأشكال (يتحقق من المسافة والتقاطع هندسياً)
+node tests/v3nesting.test.js   # نمط المستطيلات
+node tests/v3shape.test.js     # نمط تداخل الأشكال (يتحقق من المسافة والتقاطع هندسياً)
 ```
 
 ---
